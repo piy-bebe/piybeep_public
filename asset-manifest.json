@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e175ded4.css",
+    "main.js": "/static/js/main.1cbf6771.js",
+    "static/media/advantageRight.svg": "/static/media/advantageRight.3a8af10f2cedd0e85c89.svg",
+    "static/media/eyes.svg": "/static/media/eyes.7eaee773798e50db93b6.svg",
+    "static/media/advantageLeft.svg": "/static/media/advantageLeft.ddd2a3dc0bc37514422e.svg",
+    "static/media/feedbackLeftBottom.svg": "/static/media/feedbackLeftBottom.c63423b9a3bcf688e9ca.svg",
+    "static/media/piybeepLeftBottom.svg": "/static/media/piybeepLeftBottom.c63423b9a3bcf688e9ca.svg",
+    "static/media/advantageLeftCenter1000Width.svg": "/static/media/advantageLeftCenter1000Width.ccac78f3f2a28bb1ec3f.svg",
+    "static/media/advantageRightBottom1000Width.svg": "/static/media/advantageRightBottom1000Width.fc5ee746812525b8fd8f.svg",
+    "static/media/created_siteLeftTop.svg": "/static/media/created_siteLeftTop.666da8cff8b3e60e6369.svg",
+    "static/media/piybeepLeftTop.svg": "/static/media/piybeepLeftTop.f313f2bc16b09292dc77.svg",
+    "static/media/feedbackRightBottom.svg": "/static/media/feedbackRightBottom.f7c52df89bddc98bcb61.svg",
+    "static/media/itentionBgLeftBottom.svg": "/static/media/itentionBgLeftBottom.f7c52df89bddc98bcb61.svg",
+    "static/media/piybeepRightBittom.svg": "/static/media/piybeepRightBittom.f7c52df89bddc98bcb61.svg",
+    "static/media/feedbackLeftTop.svg": "/static/media/feedbackLeftTop.7f11fdca3a76ed7902f3.svg",
+    "static/media/CreateSiteRightBottom.svg": "/static/media/CreateSiteRightBottom.dc5a005e778af165822f.svg",
+    "static/media/advantageWidth1000TopRight.svg": "/static/media/advantageWidth1000TopRight.5c3d23dad9128f68ab0f.svg",
+    "index.html": "/index.html",
+    "static/media/close.svg": "/static/media/close.f501f31227952510aa6d.svg",
+    "main.e175ded4.css.map": "/static/css/main.e175ded4.css.map",
+    "main.1cbf6771.js.map": "/static/js/main.1cbf6771.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e175ded4.css",
+    "static/js/main.1cbf6771.js"
+  ]
+}
